@@ -1,0 +1,5 @@
+a = input("Input Number [1]:\n")
+b = input("Input Number [2]\n")
+print(a,"=",b,":",a==b)
+print(a,">",b,":",a>b)
+print(a,"<",b,":",a<b)
